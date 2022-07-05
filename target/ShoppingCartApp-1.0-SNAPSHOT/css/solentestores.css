@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 Oct 2021, 19:45:22
+    Author     : nick
+*/
+
+body,input[type=button] {
+    font-family: 'Berlin Sans FB', Helvetica, Arial, sans-serif;
+    background-color: #c0c0ff;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logodiv {
+    text-align: center;
+}
+
+#main {
+    font-size: 120%;
+}
